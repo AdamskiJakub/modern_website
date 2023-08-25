@@ -1,0 +1,10 @@
+1. Deleting usless files.
+2. Adding icons to assets folder.
+3. creating index.js in folder constants and putting every test on the application in an area of objects
+so i can map them later.
+4. Creating another style.js where i put basic styles.
+5. importing styles from that folder ro App.jsx. (they are in const so i can use them like style.whatever)
+6. Finishing layout and creating folder componnets
+7. Creating all components needed for the aplication
+8. First I focus on Navbar. I'm importing everything that i need close logo and menu and navLinks
+whitch is a array or objects
