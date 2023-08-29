@@ -8,3 +8,12 @@ so i can map them later.
 7. Creating all components needed for the aplication
 8. First I focus on Navbar. I'm importing everything that i need close logo and menu and navLinks
 whitch is a array or objects
+9. creating nav and inside this nav I created img with src logo than ul with maping where we 
+set index to navlength because we have bug with margin
+10. moblie list in this nav we create div with img where we set usestate with toggle the icon menu
+and we map again with changing styles to flex col and delete hidden
+------------------ hero
+1. changed div to section and imported important things. 
+2. Giving needed classes to section
+3. creating divs spans and giving proper classnames to create the topic
+4. than we go to getStarted
